@@ -69,6 +69,7 @@ public class Movies {
                             comedy + "\nAdventures: " + adventure + "\nActions: " + action +
                             "\nRomances: " + romance + "\nAnimations: " + animation +
                             "\nDocumentaries: " + documentary + "\nMixed: " + mixed);
+        System.out.println("Total Movies: " + total);
     }
     public void convert1(ArrayList<ArrayList<String>> array) {
         LinkedList<Movie> movies = new LinkedList<>();

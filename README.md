@@ -19,8 +19,4 @@ planning to perfect it for future assignments.
 Special notice to yearSort() function. Unless most recent Java is installed, Strings for years will 
 come out as chars.
 
-I decided against visual representation of data by graph at this time firstly because java is not
-great for it, and second I am not very familiar with wrappers to use java code with another 
-language such as Python. Writting this again in Python is way easier in my case, but I'd prefer to
-paractice Java. I would apreciate any tips on how to use wrappers in general for this particular 
-purpose. 
+The visualization is made with Python3. I used matplotlib to scatter the graph. The values are x and y. x values are number of repetitions of different genres. y values are number genres.  
