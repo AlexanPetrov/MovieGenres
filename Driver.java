@@ -25,7 +25,7 @@ public class Driver {
         //movies.printList(); // Print complete list
 
         //movies.printTitleYearMap(); // Title/year printer sorted by title
-        movies.countGenres(); // Genere counter and printer
+        //movies.countGenres(); // Genere counter and printer
 
         //movies.printTitles(); // Title/Year printer unsorted
 
